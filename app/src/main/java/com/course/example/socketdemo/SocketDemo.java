@@ -1,7 +1,7 @@
 /*
  * This is the client side of an application that communicates over Sockets.
  * The server side may be hosted on any server with an IP address.
- * As of Android 4 all creation and use of sockets must be done on a background thread.
+ * All creation and use of sockets must be done on a background thread.
  * When the button is clicked, the thread is started.
  * Notice the permissions in the Manifest.
  */
